@@ -1,6 +1,7 @@
 import React from "react";
 import './Details.css';
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 
 const Details =() => {
@@ -64,7 +65,7 @@ return(
 
     </div>   
 </div>
-
+<Footer />
 </div>
     
   );
