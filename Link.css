@@ -51,4 +51,11 @@
   .cardf-description {
     margin-bottom: 0;
   }
+ @media screen and (max-width: 768px) {
+    
+    .cardf {
+      flex-direction: column;
+      align-items: center;
+    }
+  }  
   
