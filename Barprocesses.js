@@ -7,11 +7,11 @@ const Barprocesses = () => {
   return (
     <div>
       <Navbar />
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <Barcontent />
       <Footer />
    </div>
