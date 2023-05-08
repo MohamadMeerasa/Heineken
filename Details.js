@@ -7,10 +7,8 @@ const Details =() => {
 return(
 <div className='details' style={{marginTop : "30px"}}>
   <Navbar />
-        <br />
-        <br />
-        <br />
-<div className="container">
+        
+<div className="container" style={{marginTop : "150px"}}>
     <div className="column">
     <p className="perfect">Perfect Pour for Heineken</p>
     <br />
