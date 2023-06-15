@@ -28,6 +28,8 @@ const Navbar = () => {
                 <Link to="/bar_closing"> Bar Closing (Supercold)</Link>
                 <Link to="/bar_closing_super_cold"> Change DDS CO2</Link>
                 <Link to="/perfect_pour_heineken"> Heineken Perfect pour</Link>
+                <Link to="/daily_bar_operations(DDS)"> Daily Bar Operations(DDS)</Link>
+                <Link to="/perfect_pour_heineken">Daily Bar Operations(IBC) </Link>
               </div>
             </div>
           </div>

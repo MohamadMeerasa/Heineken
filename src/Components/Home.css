@@ -44,4 +44,31 @@ cards{
     
     }
 
-    
+    @media only screen and (max-width: 768px) {
+        .cards {
+            height: auto;
+            align-items: center;
+            justify-content: center;
+          }
+           
+          .cards-title{
+            /* justify-content: center;
+            align-items: center; */
+            margin-right: 50px;
+        }
+          .cards-text{
+            
+            margin-right: 100px;
+            align-items: center;
+            justify-content: center;
+            font-weight: lighter;
+            font-family: "Lato" ,sans-serif;
+        }
+
+        .card-link {
+          font-size: 15px;
+          text-decoration: none;
+        }
+
+       
+      }      

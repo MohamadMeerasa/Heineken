@@ -10,6 +10,9 @@ import Link3 from "./Components/Linkpages/Link3";
 import Link5 from "./Components/Linkpages/Link5";
 import Link6 from "./Components/Linkpages/Link6";
 import Link4 from "./Components/Linkpages/Link4";
+import Link07 from "./Components/Linkpages/Link07";
+import Link8 from "./Components/Linkpages/Link07";
+
 import NotFound from "./Components/Linkpages/NotFound";
 const App = () => {
   return (
@@ -24,6 +27,8 @@ const App = () => {
           <Route path="/bar_closing" element={<Link4 />} />
           <Route path="/bar_closing_super_cold" element={<Link5 />} />
           <Route path="/perfect_pour_heineken" element={<Link6 />} />
+          <Route path="/daily_bar_operations(DDS)" element={<Link07 />} />
+          <Route path="/daily_bar_operations(IBC)" element={<Link8 />} />   
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Router>
