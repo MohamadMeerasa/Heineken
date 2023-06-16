@@ -25,23 +25,26 @@ const Link08 = () => {
       </div>
     </div>
 
-     
-    <div className="carde" style={{ marginTop: "4%" }}>
+     <div className="carde" style={{ marginTop: "4%" }}>
   <div className="carde-content">
     <h2 className="carde-title">Step 2</h2>
     <h5 className="carde-description">Check the servicing card for your chillers to see if they have missed servicing or not.(IBC:15 days, DDS:3 months)</h5>
+   
   </div>
-  <div className="container" style={{marginTop:"2%"}}>
+  <div className="container" style={{marginTop: "2%"}} >
       <div className="row">
         <div className="col-md-6">
-          <img className="ime"  src="pic2.jpg" alt="piccs" />
+          <img  src="pic2.jpg" alt="piccs"  style={{maxWidth:"100%"}}/>
         </div>
-        <div className="col-md-6" >
-        <img className="ime"  src="pic22.jpg" alt="piccs" />
+        <div className="col-md-6">
+        <img  src="pic22.jpg" alt="piccs" style={{maxWidth:"100%"}} />
+
         </div>
       </div>
-   </div>
+   
+  </div>
 </div>
+    
  
 <div className="carde" style={{ marginTop: "4%" }}>
   <div className="carde-content">
@@ -54,8 +57,8 @@ const Link08 = () => {
           <img className="ime"  src="pic3.jpg" alt="picccs" style={{maxWidth:"100%"}} />
         </div>
         <div className="col-md-6" >
-          <video  controls poster="link35a.webp" >
-            <source className="video" src="link35a.mp4" type="video/mp4" />
+          <video  controls poster="link35a.webp"  style={{maxWidth:"100%",minWidth:"96%"}}>
+            <source className="vid" src="link35a.mp4" type="video/mp4" />
           </video>
         </div>
       </div>

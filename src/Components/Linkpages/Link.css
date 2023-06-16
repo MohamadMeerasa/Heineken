@@ -184,5 +184,11 @@ h5{
     .perfect{
       margin: 0px;
     }
-    
+    .vi{
+      max-width: 100%;
+    }
+    .ime{
+      max-width: "100%";
+      min-width: "100%";
+    }
   }  
