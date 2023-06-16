@@ -40,15 +40,20 @@ cards{
         height: auto;
         justify-content: center;
         align-items: center;
-        margin-left: 150px;
+        margin-left: 100px;
     
     }
 
     @media only screen and (max-width: 768px) {
+       
+       
+       
         .cards {
             height: auto;
             align-items: center;
             justify-content: center;
+            margin: 0px;
+            
           }
            
           .cards-title{
@@ -58,7 +63,7 @@ cards{
         }
           .cards-text{
             
-            margin-right: 100px;
+            margin: 0px;
             align-items: center;
             justify-content: center;
             font-weight: lighter;
@@ -68,6 +73,13 @@ cards{
         .card-link {
           font-size: 15px;
           text-decoration: none;
+        }
+
+        .homeimg{
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            width: 100%;
         }
 
        

@@ -10,117 +10,186 @@ const Link2 = () => {
         <Navbar />
     <div className="container">
     <div className="column">
-    <p className="perfect" style={{marginTop : "170px"}}>Changing a CO<sub>2</sub> Cylinder (Ice Bank Cooler)</p>
+    <h3 className="perfect" style={{marginTop : "170px"}}>Bar Closing(Super Cold)</h3>
     <br />
     </div>
+
 
     <div className="cardstart" style={{marginTop : "30px"}}>
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link21.webp">
-          <source src="link21.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link51a.webp">
+          <source src="link51a.mp4" type="video/mp4" />
         </video>
               </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 1</h2>
-        <p className="cardf-description"><h3>Slow beer flow may indicate that the CO<sub>2</sub> cylinder is empty</h3>
-           </p>
+        <h5 className="cardf-description">Switch off super cold unit</h5>
       </div>
     </div>
 
      
 <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link22.webp">
-          <source src="link22.mp4" type="video/mp4" />
-        </video>
-              </div>
+      <video width="100%" height="100%" controls poster="link41a.webp">
+          <source src="link41a.mp4" type="video/mp4" />
+        </video>     
+         </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 2</h2>
-        <p className="cardf-description"><h3>Ensure that the pressure on the CO<sub>2</sub> meter indicates zero</h3></p>
+        <h5 className="cardf-description">Disengage and lift up dispenser, turning it anti-clockwise to remove it
+       <h6>Hold and push down the entire lever before squeezing the bottom lever to disengage the dispenser</h6>
+       </h5>
       </div>
     </div>
  
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link23.webp">
-          <source src="link23.mp4" type="video/mp4" />
-        </video>
-              </div>
+      <video width="100%" height="100%" controls poster="link42a.webp">
+          <source src="link42a.mp4" type="video/mp4" />
+        </video>     
+         </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 3</h2>
-        <p className="cardf-description"><h3>Turn off the CO<sub>2</sub> flow by turning the knob on the cylinder clockwise</h3>
-           </p>
+        <h5 className="cardf-description">Connect the dispenser to the flushing adapter and turn it clockwise to secure it. Turn on the water supply
+           </h5>
       </div>
     </div>
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link24.webp">
-          <source src="link24.mp4" type="video/mp4" />
-        </video>
-              </div>
+      <video width="100%" height="100%" controls poster="link43a.webp">
+          <source src="link43a.mp4" type="video/mp4" />
+        </video>      
+        </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 4</h2>
-        <p className="cardf-description"><h3>Release the residue pressure by pulling on the release key repeatedly before unscrewing the nut with a spanner</h3>
-       </p>
+        <h5 className="cardf-description">Use a piece of tissue to clean leftover beer on the keg spearhead
+       <h6>(IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</h6>
+       </h5>
       </div>
     </div>
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link25.webp">
-          <source src="link25.mp4" type="video/mp4" />
-        </video>
-              </div>
+      <video width="100%" height="100%" controls poster="link44a.webp">
+          <source src="link44a.mp4" type="video/mp4" />
+        </video>     
+         </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 5</h2>
-        <p className="cardf-description"><h3>Ensure that there is a washer on the regulator before connecting it to the new CO<sub>2</sub> cylinder</h3>
-          <h6>(IMPORTANT) The washer prevents any potential CO2 leaks </h6> </p>
+        <h5 className="cardf-description">Use another piece of tissue to seal the keg spearhead
+          <h6>(IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</h6> 
+          </h5>
       </div>
     </div>
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link26.webp">
-          <source src="link26.mp4" type="video/mp4" />
-        </video>
-              </div>
+      <video width="100%" height="100%" controls poster="link45a.webp">
+          <source src="link45a.mp4" type="video/mp4" />
+        </video>      
+        </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 6</h2>
-        <p className="cardf-description"><h3>After connecting the regulator to a new cylinder, tighten the nut with a spanner</h3>
-          <h6>(IMPORTANT) Double check that the nut is properly tightened</h6> </p>
+        <h5 className="cardf-description">Turn on the beer tap by pulling the beer handle towards you to flush out the remaining beer in the system.
+             Stop when you see clear water flow</h5>
       </div>
     </div>
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link27.webp">
-          <source src="link27.mp4" type="video/mp4" />
-        </video>
-              </div>
+      <video width="100%" height="100%" controls poster="link46a.webp">
+          <source src="link46a.mp4" type="video/mp4" />
+        </video>     
+         </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 7</h2>
-        <p className="cardf-description"><h3>Turn on the CO<sub>2</sub> flow by turning the cylinder knob anti-clockwise</h3>
-          </p>
+        <h5 className="cardf-description">Turn off the CO2 flow by turning the cylinder knob clockwise
+          <h6>(IMPORTANT) Ensure that the cylinder is properly tightened to prevent any CO2 gas leak</h6>
+           </h5>
       </div>
     </div>
-</div>
 
-<div className="cardf">
+    <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link28.webp">
-          <source src="link28.mp4" type="video/mp4" />
-        </video>
-              </div>
+      <video width="100%" height="100%" controls poster="link47a.webp">
+          <source src="link47a.mp4" type="video/mp4" />
+        </video>     
+         </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 8</h2>
-        <p className="cardf-description"><h3>Start dispensing the beer and stop when there is clear beer flow</h3></p>
+        <h5 className="cardf-description">Prior to bar opening, 
+        turn on CO2 flow by turning the cylinder knob anti-clockwise
+        </h5>
       </div>
     </div>
-</div>
-    
+
+    <div className="cardf">
+      <div className="cardf-image-container">
+      <video width="100%" height="100%" controls poster="link48a.webp">
+          <source src="link48a.mp4" type="video/mp4" />
+        </video>     
+         </div>
+      <div className="cardf-content">
+        <h2 className="cardf-title">Step 9</h2>
+        <h5 className="cardf-description">Remove the tissue paper from the keg spearhead</h5>
+      </div>
+    </div>
+
+    <div className="cardf">
+      <div className="cardf-image-container">
+      <video width="100%" height="100%" controls poster="link49a.webp">
+          <source src="link49a.mp4" type="video/mp4" />
+        </video>     
+         </div>
+      <div className="cardf-content">
+        <h2 className="cardf-title">Step 10</h2>
+        <h5 className="cardf-description">Turn the dispenser anti-clockwise to remove it from the flushing adapter</h5>
+      </div>
+    </div>
+
+    <div className="cardf">
+      <div className="cardf-image-container">
+      <video width="100%" height="100%" controls poster="link410a.webp">
+          <source src="link410a.mp4" type="video/mp4" />
+        </video>      
+        </div>
+      <div className="cardf-content">
+        <h2 className="cardf-title">Step 11</h2>
+        <h5 className="cardf-description">Connect the dispenser with the keg spearhead, turning it clockwise to secure it, before squeezing the lever and pressing it down to engage the dispenser
+        <h6>Ensure that the dispenser is aligned with the keg spearhead before turning, and squeeze the bottom lever before pushing the whole lever down</h6></h5>
+      </div>
+    </div>
+
+    <div className="cardf">
+      <div className="cardf-image-container">
+      <video width="100%" height="100%" controls poster="link411a.webp">
+          <source src="link411a.mp4" type="video/mp4" />
+        </video>     
+         </div>
+      <div className="cardf-content">
+        <h2 className="cardf-title">Step 12</h2>
+        <h5 className="cardf-description">Pull the beer tap handle towards you to flush out the remaining water in the system and stop when you see clear beer flow</h5>
+      </div>
+    </div>
+
+    <div className="cardf">
+      <div className="cardf-image-container">
+      <video width="100%" height="100%" controls poster="link413.webp">
+          <source src="link413.mp4" type="video/mp4" />
+        </video>      
+        </div>
+      <div className="cardf-content">
+        <h2 className="cardf-title">Step 13</h2>
+        <h5 className="cardf-description">Turn on the super cold system 2 hours prior to start of bar operations
+        <h6>This allows the super cold to have sufficient time to cool down</h6></h5>
+      </div>
+    </div>
+    </div>
+
+    </div>
     <Footer />
     </div>
 

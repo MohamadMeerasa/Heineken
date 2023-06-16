@@ -6,78 +6,122 @@ import Footer from "../Footer";
 
 const Link6 = () => {
   return (
-    <div className="links">
-        <Navbar />
+  <div className="links">
+      <Navbar />
     <div className="container">
-    <div className="column">
-    <p className="perfect" style={{marginTop : "170px"}}>Perfect Pour for Heineken</p>
-    <br />
-    </div>
+      <div className="column">
+        <h3 className="perfect" style={{marginTop : "170px"}}>Changing a Beer KEG (Ice Bank Cooler)</h3>
+         <br />
+      </div>
 
-    <div className="cardstart" style={{marginTop : "30px"}}>
-
+  <div className="cardstart" style={{marginTop : "30px"}}>
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="step1.webp">
-          <source src="file.mp4" type="video/mp4" />
-        </video>      </div>
+        <video className="card-video" width="100%" height="100%" controls poster="link11.webp">
+          <source src="link11.mp4" type="video/mp4" />
+        </video>
+      </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 1</h2>
-        <p className="cardf-description"><h3>Rinse the beer glass</h3>
-          <h6>Hold the glass by the base and rinse it, and avoid 
-            touching the upper section of the glass to keep the beer cold 
-            and at the right foam density </h6> </p>
+        <h5 className="cardf-description">
+          <h5>Ensure that the beer keg is empty</h5>
+          <h6> The beer tap will only dispense foam when the keg is empty</h6> 
+        </h5>
       </div>
     </div>
 
      
-<div className="cardf">
+    <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="step1.webp">
-          <source src="file2.mp4" type="video/mp4" />
-        </video>     
-         </div>
+        <video width="100%" height="100%" controls poster="link12.webp">
+          <source src="link12.mp4" type="video/mp4" />
+        </video> 
+      </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 2</h2>
-        <p className="cardf-description"><h3>Start dispensing the beer by
-             pulling the tap handle towards you while holding the glass at a 45 degree angle</h3>
-         <h6>(IMPORTANT) Ensure that the tap is not touching the beer for hygiene purposes</h6>
-        </p>
+        <h5 className="cardf-description">
+          <h5>Disengage and lift up dispense.</h5>
+          <h6>Hold the entire lever down, before squeezing the bottom lever so that you can lift up the whole lever</h6>
+        </h5>
       </div>
     </div>
  
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="step3.webp">
-          <source src="file3.mp4" type="video/mp4" />
-        </video>     
-         </div>
+        <video width="100%" height="100%" controls poster="link13.webp">
+          <source src="link13.mp4" type="video/mp4" />
+        </video>
+      </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 3</h2>
-        <p className="cardf-description"><h3>When the glass is almost 3/4 full, gradually straighten it, 
-            turn off the tap and push the handle away from you for a foam head</h3>
-           <h6>(IMPORTANT) Use a skimmer to skim off any excess foam. The foam head should be around 2 fingers' height</h6>
-           </p>
+        <h5 className="cardf-description">
+          <h5>Turn anti-clockwise and remove dispenser</h5>
+        </h5>
       </div>
     </div>
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="step1.webp">
-          <source src="file4.mp4" type="video/mp4" />
-        </video>     
-         </div>
+        <video width="100%" height="100%" controls poster="link14.webp">
+          <source src="link14.mp4" type="video/mp4" />
+        </video>
+      </div>
       <div className="cardf-content">
         <h2 className="cardf-title">Step 4</h2>
-        <p className="cardf-description"><h3>Serve the beer with the right coaster and enjoy your Heineken!</h3>
-       </p>
+        <h5 className="cardf-description">
+          <h5>Break open the seal of the new beer keg</h5>
+       </h5>
       </div>
     </div>
+
+    <div className="cardf">
+      <div className="cardf-image-container">
+        <video width="100%" height="100%" controls poster="link15.webp">
+          <source src="link15.mp4" type="video/mp4" />
+        </video>
+      </div>
+      <div className="cardf-content">
+        <h2 className="cardf-title">Step 5</h2>
+        <h5 className="cardf-description">
+          <h5>Connect the dispenser and turn it clockwise to lock it</h5>
+          <h6>You have to align the dispenser head with the spearhead before being able to turn the dispenser to secure it. Do not force the 
+            dispenser onto the spearhead as it can cause damage to either components. </h6> 
+        </h5>
+      </div>
     </div>
 
-</div>
-    <Footer />
+    <div className="cardf">
+      <div className="cardf-image-container">
+      <video width="100%" height="100%" controls poster="link16.webp">
+          <source src="link16.mp4" type="video/mp4" />
+        </video>
+              </div>
+      <div className="cardf-content">
+        <h2 className="cardf-title">Step 6</h2>
+        <h5 className="cardf-description">
+          <h5>Engage the dispenser by squeezing the lever and pushing down</h5>
+          <h6>Squeeze the bottom half of the lever before pushing the entire lever down to lock the dispenser </h6> 
+        </h5>
+      </div>
     </div>
+
+    <div className="cardf">
+      <div className="cardf-image-container">
+      <video width="100%" height="100%" controls poster="link17.webp">
+          <source src="link17.mp4" type="video/mp4" />
+        </video>
+        </div>
+      <div className="cardf-content">
+        <h2 className="cardf-title">Step 7</h2>
+        <h5 className="cardf-description"><h5>Test the flow of beer</h5>
+          <h6> Pull the beer tap to dispense beer and stop when you see clear beer flow</h6> 
+        </h5>
+      </div>
+    </div>
+  </div>
+  </div>
+<Footer />
+</div>
 
     )
 }
