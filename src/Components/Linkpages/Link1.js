@@ -111,7 +111,7 @@ const Link1 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link49aa.webp">
+      <video width="100%" height="100%" controls poster="link49a.webp">
           <source src="link49a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">

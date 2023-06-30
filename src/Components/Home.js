@@ -22,7 +22,7 @@ const Home = () => {
     For more complex requests such as troubleshooting a faulty chiller, 
     do reach out to the respective Technical Officers for your outlet.</h6>
     
-     <a href="/barprocesses" className="card-link">Click here to go to Barprocesses</a> 
+     <a href="/barprocesses" className="card-link">Click here to go to Bar Processes</a> 
   </div>
   <br></br>
 </div>

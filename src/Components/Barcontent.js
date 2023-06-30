@@ -16,7 +16,7 @@ const Barcontent = () => {
             <div className="cardm">
               <div className="card-body">
                 <a href="/bar_closing" className="card-link">
-                  <h3>Bar Closing(ICE BANK COOLER)</h3>
+                  <h3>Bar Closing(Ice Bank Cooler)</h3>
                 </a>
               </div>
             </div>
@@ -27,7 +27,7 @@ const Barcontent = () => {
               <div className="card-body">
                 <a href="/bar_closing_super_cold" className="card-link">
                   <h3>
-                    Bar Closing(SUPER COLD)
+                    Bar Closing(Super Cold)
                   </h3>
                 </a>
               </div>
@@ -39,7 +39,7 @@ const Barcontent = () => {
               <div classv="card-body">
                 <a href="/changing_co2cylinder_dispenser" className="card-link">
                   <h3>
-                    Changing a CO<sub>2</sub>Cylinder(DAVID DISPENSER SYSTEM)
+                    Changing a CO<sub>2</sub> cylinder (David Dispenser System)
                   </h3>
                 </a>
               </div>
@@ -50,7 +50,7 @@ const Barcontent = () => {
             <div className="cardm">
               <div className="card-body">
                 <a href="/changing_co2_cylinder" className="card-link">
-                  <h3>Changing CO<sub>2</sub> Cylinder(ICE BANK COOLER)</h3>
+                  <h3>Changing CO<sub>2</sub> cylinder(Ice Bank Cooler)</h3>
                 </a>
               </div>
             </div>
@@ -70,7 +70,7 @@ const Barcontent = () => {
             <div className="cardm">
               <div className="card-body">
                 <a href="/changing_beer_keg" className="card-link">
-                  <h3>Changing a Beer KEG(ICE BANK COOLER) </h3>
+                  <h3>Changing a Beer Keg(Ice Bank Cooler) </h3>
                 </a>
               </div>
             </div>
