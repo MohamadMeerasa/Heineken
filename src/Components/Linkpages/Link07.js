@@ -58,13 +58,13 @@ const Link07 = () => {
   <div className="container" style={{marginTop:"2%"}}>
       <div className="row">
         <div className="col-md-6">
-          <img  src="pic3.jpg" alt="picccs" style={{maxWidth:"100%"}} />
+          <img  src="pic3.jpeg" alt="picccs" style={{maxWidth:"100%"}} />
         </div>
-        <div className="col-md-6"  >
+        {/* <div className="col-md-6"  >
           <video  controls poster="link35a.webp" style={{maxWidth:"100%",minWidth:"96%"}}>
             <source  src="link35a.mp4" type="video/mp4"  />
           </video>
-        </div>
+        </div> */}
       </div>
    
   </div>
@@ -75,8 +75,8 @@ const Link07 = () => {
 
     <div className="cardf" style={{marginTop:"4%"}}> 
     <div className="cardf-image-container" style={{alignItems:"center",justifyContent:"center"}}>
-      <video width={"100%"} height={"100%"} controls poster="link34a.webp">
-          <source src="link34a.mp4" type="video/mp4" />
+      <video width={"100%"} height={"100%"} controls poster="link7.4.jpeg">
+          <source src="link7.4.mp4" type="video/mp4" />
         </video>
               </div>
     <div className="cardf-content">
@@ -133,25 +133,25 @@ const Link07 = () => {
             </div>
 
             <div className="cardd-content" style={{marginTop:"4%"}}>
-              <h2 className="cardff-title"  >Step 6 : Connect the beer keg</h2>
+              <h2 className="cardff-title"  >Step 6 : Connect the beer tap</h2>
               
               <div className="container" style={{marginTop:"2%"}}>
                 <div className="row">
                 <div className="col-md-6" >
-                  <video width="100%" height="100%" controls poster="link35a.webp">
-                    <source src="link35a.mp4" type="video/mp4" />
+                  <video width="100%" height="100%" controls poster="link8.5.1.jpeg">
+                    <source src="link8.5.1.mp4" type="video/mp4" />
                   </video>
                 </div>
                 <div className="col-md-6">
                   <h5 className="cardff-substep-title" >
-                    Step 6.1: prepare a brush and a pail of water. Soak the brush into the water.
+                    Step 6.1: Prepare a brush and a pail of water. Soak the brush into the water.
                   </h5>
                 </div>
               </div>
               <div className="row">
                 <div className="col-md-6" >
-                  <video width="100%" height="100%" controls poster="link36a.webp">
-                    <source src="link36a.mp4" type="video/mp4" />
+                  <video width="100%" height="100%" controls poster="link8.5.2.jpeg">
+                    <source src="link8.5.2.mp4" type="video/mp4" />
                   </video>
                 </div>
                 <div className="col-md-6">
@@ -163,8 +163,8 @@ const Link07 = () => {
               
               <div className="row">
                 <div className="col-md-6" >
-                  <video width="100%" height="100%" controls poster="link37a.webp">
-                    <source src="link37a.mp4" type="video/mp4" />
+                  <video width="100%" height="100%" controls poster="link8.5.3.jpeg">
+                    <source src="link8.5.3.mp4" type="video/mp4" />
                   </video>
                 </div>
                 <div className="col-md-6">
@@ -179,7 +179,7 @@ const Link07 = () => {
   <div className="cardf" style={{flexDirection:"column",alignItems:"center",marginTop:"4%"}}>
   <div className="cardf-content">
     <h2 className="cardf-title">Step 7</h2>
-      <h5 className="cardf-description">Engage the dispenser by pressing on the button to start the flow of CO2.</h5>
+      <h5 className="cardf-description">Ensure clean glassware</h5>
   </div>
   <div className="container">
     <div className="row">

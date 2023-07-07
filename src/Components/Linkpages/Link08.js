@@ -56,11 +56,11 @@ const Link08 = () => {
         <div className="col-md-6">
           <img className="ime"  src="pic3.jpg" alt="picccs" style={{maxWidth:"100%"}} />
         </div>
-        <div className="col-md-6" >
+        {/* <div className="col-md-6" >
           <video  controls poster="link35a.webp"  style={{maxWidth:"100%",minWidth:"96%"}}>
             <source className="vid" src="link35a.mp4" type="video/mp4" />
           </video>
-        </div>
+        </div> */}
       </div>
    
   </div>
@@ -72,8 +72,8 @@ const Link08 = () => {
               <div className="container" style={{marginTop:"2%"}}>
                 <div className="row">
                     <div className="col-md-6">
-                  <video width="100%" height="100%" controls poster="link35a.webp">
-                    <source className="image"  src="link35a.mp4" type="video/mp4" />
+                  <video width="100%" height="100%" controls poster="link8.4.1.jpeg">
+                    <source className="image"  src="link8.4.1.mp4" type="video/mp4" />
                   </video>
                 </div>
                 
@@ -85,8 +85,8 @@ const Link08 = () => {
               </div>
               <div className="row">
               <div className="col-md-6">
-               <video width="100%" height="100%" controls poster="link36a.webp">
-                    <source src="link36a.mp4" type="video/mp4" />
+               <video width="100%" height="100%" controls poster="link8.4.2.jpeg">
+                    <source src="link8.4.2.mp4" type="video/mp4" />
                   </video>
                 </div>
                 <div className="col-md-6">
@@ -106,8 +106,8 @@ const Link08 = () => {
               <div className="container" style={{marginTop:"2%"}}>
                 <div className="row" >
                     <div className="col-md-6">
-                  <video width="100%" height="100%" controls poster="link35a.webp">
-                    <source src="link35a.mp4" type="video/mp4" />
+                  <video width="100%" height="100%" controls poster="link8.5.1.jpeg">
+                    <source src="link8.5.1.mp4" type="video/mp4" />
                   </video>
                 </div>
                 <div className="col-md-6" >
@@ -118,8 +118,8 @@ const Link08 = () => {
               </div>
               <div className="row">
                 <div className="col-md-6" >
-                  <video width="100%" height="100%" controls poster="link36a.webp">
-                    <source src="link36a.mp4" type="video/mp4" />
+                  <video width="100%" height="100%" controls poster="link8.5.2.jpeg">
+                    <source src="link8.5.2.mp4" type="video/mp4" />
                   </video>
                 </div>
                 <div className="col-md-6">
@@ -130,8 +130,8 @@ const Link08 = () => {
               </div>
               <div className="row">
                 <div className="col-md-6" style={{float:"left"}}>
-                  <video width="100%" height="100%" controls poster="link37a.webp">
-                    <source src="link37a.mp4" type="video/mp4" />
+                  <video width="100%" height="100%" controls poster="link8.5.3.jpeg">
+                    <source src="link8.5.3.mp4" type="video/mp4" />
                   </video>
                 </div>
                 <div className="col-md-6">
