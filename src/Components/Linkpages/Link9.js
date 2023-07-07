@@ -18,13 +18,13 @@ const Link9 = () => {
           <source src="link91.mp4" type="video/mp4" />
         </video>
       </div>
-      <div className="cardf-content">
+      {/* <div className="cardf-content">
         <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
           {/* <h5>Ensure that the beer keg is empty</h5> */}<br/>
-          {/* <h5> Open up the tap by pressing the button on the left</h5>  */}
+          {/* <h5> Open up the tap by pressing the button on the left</h5>
         </h5>
-      </div>
+      </div> */}
     </div>
      </div>
   </div>
