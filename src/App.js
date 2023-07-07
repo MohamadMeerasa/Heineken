@@ -16,24 +16,26 @@ import Link9 from "./Components/Linkpages/Link9";
 import Link10 from "./Components/Linkpages/Link10";
 import NotFound from "./Components/Linkpages/NotFound";
 import Link08 from "./Components/Linkpages/Link08";
+import Navbar from "./Components/Navbar";
+import Footer from "./Components/Footer";
 const App = () => {
   return (
     <div className="App">
       <Router>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/barprocesses" element={<Barprocesses />} />
-          <Route path="/bar_closing" element={<Link1 />} />
-          <Route path="/bar_closing_super_cold" element={<Link2 />} />
-          <Route path="/changing_co2cylinder_dispenser" element={<Link3 />} />
-          <Route path="/changing_co2_cylinder" element={<Link4 />} />
-          <Route path="/changing_dds_beerkeg" element={<Link5 />} />
-          <Route path="/changing_beer_keg" element={<Link6 />} />
-          <Route path="/daily_bar_operations(DDS)" element={<Link07 />} />
-          <Route path="/daily_bar_operations(IBC)" element={<Link08 />} />   
-          <Route path="/guinness_perfect_pour" element={<Link9 />} /> 
-          <Route path="/perfect_pour_heineken" element={<Link10 />} /> 
-          <Route path="*" element={<NotFound />} />
+          <Route path="/" element={<><Navbar/><Home /><Footer/></>} />
+          <Route path="/barprocesses" element={<><Navbar/><Barprocesses /><Footer/></>} />
+          <Route path="/bar_closing" element={<><Navbar/><Link1 /><Footer/></>} />
+          <Route path="/bar_closing_super_cold" element={<><Navbar/><Link2 /><Footer/></>} />
+          <Route path="/changing_co2cylinder_dispenser" element={<><Navbar/><Link3 /><Footer/></>} />
+          <Route path="/changing_co2_cylinder" element={<><Navbar/><Link4 /><Footer/></>} />
+          <Route path="/changing_dds_beerkeg" element={<><Navbar/><Link5 /><Footer/></>} />
+          <Route path="/changing_beer_keg" element={<><Navbar/><Link6 /><Footer/></>} />
+          <Route path="/daily_bar_operations(DDS)" element={<><Navbar/><Link07 /><Footer/></>} />
+          <Route path="/daily_bar_operations(IBC)" element={<><Navbar/><Link08 /><Footer/></>} />   
+          <Route path="/guinness_perfect_pour" element={<><Navbar/><Link9 /><Footer/></>} /> 
+          <Route path="/perfect_pour_heineken" element={<><Navbar/><Link10 /><Footer/></>} /> 
+          <Route path="*" element={<><Navbar/><NotFound /><Footer/></>} />
         </Routes>
       </Router>
     </div>

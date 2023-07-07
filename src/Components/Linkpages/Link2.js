@@ -1,13 +1,10 @@
 import React from "react";
 import './Link.css';
-import Navbar from "../Navbar";
-import Footer from "../Footer";
 
 
 const Link2 = () => {
   return (
     <div className="links">
-        <Navbar />
     <div className="container">
     <div className="column">
     <h3 className="perfect" style={{marginTop : "170px"}}>Bar Closing(Super Cold)</h3>
@@ -190,7 +187,6 @@ const Link2 = () => {
     </div>
 
     </div>
-    <Footer />
     </div>
 
     )

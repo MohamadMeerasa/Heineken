@@ -1,13 +1,10 @@
 import React from "react";
 import './Link.css';
-import Navbar from "../Navbar";
-import Footer from "../Footer";
 
 
 const Link3 = () => {
   return (
     <div className="links">
-        <Navbar />
     <div className="container">
     <div className="column">
     <h3 className="perfect" style={{marginTop : "170px"}}>Changing a CO<sub>2</sub> cylinder(David Dispense System)</h3>
@@ -111,7 +108,6 @@ const Link3 = () => {
       
     </div>
     </div>
-    <Footer />
     </div>
 
     )

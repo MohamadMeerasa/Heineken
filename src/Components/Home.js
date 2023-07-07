@@ -1,7 +1,5 @@
 import React from 'react'
-import Navbar from './Navbar';
 import './Home.css';
- import Footer from './Footer';
  <style>
   @import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@300;400;500;600;700&family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 </style>
@@ -10,7 +8,6 @@ const Home = () => {
   return (
     <div>
         <div className='home'>
-      <Navbar />
       
       <div className='container' >
         <div className='row'>
@@ -33,7 +30,6 @@ const Home = () => {
     </div> 
     </div>  
     </div> 
-    <Footer />
 </div>
             
 </div>
