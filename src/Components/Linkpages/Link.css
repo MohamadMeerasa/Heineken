@@ -15,7 +15,7 @@ h5{
 }
 
 .cardf {
-    display: flex;
+   
     border: 1px solid #ccc;
     border-radius: 8px;
     overflow: hidden;
@@ -42,43 +42,58 @@ h5{
 
    
 .cardf-content {
+
     padding: 20px;
     flex-basis: 60%;
   }
+     
+.cardz-content {
+
+  padding: 20px;
   
+}
   .cardf-title {
-    margin-top: 0;
+    margin-top: 10px;
+  }
+  .cardff-title {
+    margin-top: 10px;
   }
   
   .cardf-description {
     margin-bottom: 0;
+    text-align: initial;
+   
   }
 
   .cardd-content{
-    display: flex;
-    flex-direction: column;
+    display: block;
+ 
     border: 1px solid #ccc;
     margin-bottom: 2%;
   }
 
-  .cardff-title{
-    /* clear: left; */
-    /* margin-left: 530px; */
-  }
+.row h5{
+  text-align: initial;
+}
+  /* .cardff-title{
+    clear: left; 
+     margin-left: 530px;
+  } */
 
-  .cardff-substep{
+  /* .cardff-substep{
     display: flex;
     align-items: flex-start;
-  }
+  } */
 
   .cardff-substep-content{
     padding: 20px;
+  
     flex-basis: 60%;
   }
 
-  .cardff-substep-title{
-    margin-top: 0;
-    align-items: flex-start;
+  .cardff-substep-title h5{
+margin-left: 0px;
+    align-items: initial;
   }
 
   .cardc{
@@ -127,13 +142,17 @@ h5{
     .carde {
       display: flex;
       flex-direction: column;
-      align-items: center;
+      align-items: initial;
       border: 1px solid #ccc;
       border-radius: 8px;
+      
 
     }
     
-    
+  .carde-description {
+    text-align: initial;
+    padding: 20px;
+  }
     .carde-body {
       display: flex;
       justify-content: center;

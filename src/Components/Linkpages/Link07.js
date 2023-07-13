@@ -18,8 +18,8 @@ const Link07 = () => {
         <img width="100%" height="100%" src="link7.png" alt="pic" />
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 1</h2>
-        <h5 className="cardf-description"> Adopt a First In First Out method when using your kegs. The kegs with an earlier date of manufacturing/date of expiry should be used first</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 1: </b> Adopt a First In First Out method when using your kegs. The kegs with an earlier date of manufacturing/date of expiry should be used first</h5>
          
       </div>
     </div>
@@ -27,11 +27,7 @@ const Link07 = () => {
      
 
     <div className="carde" style={{ marginTop: "4%" }}>
-  <div className="carde-content">
-    <h2 className="carde-title">Step 2</h2>
-    <h5 className="carde-description">Check the servicing card for your chillers to see if they have missed servicing or not.(IBC:15 days, DDS:3 months)</h5>
-   
-  </div>
+  
   <div className="container" style={{marginTop: "2%"}} >
       <div className="row">
         <div className="col-md-6">
@@ -44,14 +40,16 @@ const Link07 = () => {
       </div>
    
   </div>
+  <div className="carde-content">
+    <h2 className="carde-title"></h2>
+    <h5 className="carde-description"> <b>Step 2: </b>Check the servicing card for your chillers to see if they have missed servicing or not.(IBC:15 days, DDS:3 months)</h5>
+   
+  </div>
 </div>
 
 
     <div className="carde" style={{ marginTop: "4%" }}>
-  <div className="carde-content">
-    <h2 className="carde-title">Step 3</h2>
-      <h5 className="carde-description" >Ensure that the beer kegs are chilled for at least 12 hours before use.</h5>
-  </div>
+
   <div className="container" style={{marginTop:"2%"}}>
       <div className="row">
         <div className="col-md-6">
@@ -65,6 +63,10 @@ const Link07 = () => {
       </div>
    
   </div>
+  <div className="carde-content">
+    <h2 className="carde-title"></h2>
+      <h5 className="carde-description" ><b>Step 3: </b>Ensure that the beer kegs are chilled for at least 12 hours before use.</h5>
+  </div>
 </div>
 
 
@@ -77,8 +79,8 @@ const Link07 = () => {
         </video>
               </div>
     <div className="cardf-content">
-        <h2 className="cardf-title">Step 4</h2>
-        <h5 className="cardf-description">Check the gas cylinder if there is sufficient volume in the cylinder. If the gas cylinder is depleted, the keg coupler will not be activated.</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"><b>Step 4: </b>Check the gas cylinder if there is sufficient volume in the cylinder. If the gas cylinder is depleted, the keg coupler will not be activated.</h5>
       </div>
     </div>
 
@@ -89,40 +91,42 @@ const Link07 = () => {
               
               <div className="container" style={{marginTop:"2%"}}>
                 <div className="row">
-                <div className="col-md-6">
+                <div >
                   <video width="100%" height="100%" controls poster="link35a.webp">
                     <source src="link35a.mp4" type="video/mp4" />
                   </video>
+                
                 </div>
-                <div className="col-md-6" >
-                  <h5 className="cardff-substep-title" >
-                    Step 5.1: Slot the beer line up the font
+             <br/>
+             <div className="cardf-content" >
+              <h5 className="cardff-substep-title" >
+                    <b>Step 5.1:</b> Slot the beer line up the font
                   </h5>
-                </div>
+                  </div>
                 </div>
               {/* <div className="cardff-substep"> */}
               <div className="row">
-                <div className="col-md-6" >
+                <div className="videoinrow"  >
                   <video width="100%" height="100%" controls poster="link36a.webp">
                     <source src="link36a.mp4" type="video/mp4" />
                   </video>
                 </div>
-                <div className="col-md-6" >
+                <div  className="cardf-content"  >
                   <h5 className="cardff-substep-title">
-                    Step 5.2: Secure the beer line in place before closing the font
+                  <b> Step 5.2:</b>  Secure the beer line in place before closing the font
                   </h5>
                 </div>
                 </div>
               {/* <div className="cardff-substep" > */}
               <div className="row">
-                <div className="col-md-6" >
+                <div >
                   <video width="100%" height="100%" controls poster="link37a.webp">
                     <source src="link37a.mp4" type="video/mp4" />
                   </video>
                 </div>
-                <div className="col-md-6" >
+                <div  className="cardf-content" >
                   <h5 className="cardff-substep-title" >
-                    Step 5.3: Slot in the coupler and engage the button to enable gas flow
+                  <b> Step 5.3:</b>  Slot in the coupler and engage the button to enable gas flow
                   </h5>
                 </div>
                 </div>
@@ -130,43 +134,43 @@ const Link07 = () => {
             </div>
 
             <div className="cardd-content" style={{marginTop:"4%"}}>
-              <h2 className="cardff-title"  >Step 6 : Connect the beer tap</h2>
+              <h2 className="cardff-title"  >Step 6 : Clean the beer tap</h2>
               
               <div className="container" style={{marginTop:"2%"}}>
                 <div className="row">
-                <div className="col-md-6" >
+                <div  >
                   <video width="100%" height="100%" controls poster="link8.5.1.jpeg">
                     <source src="link8.5.1.mp4" type="video/mp4" />
                   </video>
                 </div>
-                <div className="col-md-6">
+                <div  className="cardf-content">
                   <h5 className="cardff-substep-title" >
-                    Step 6.1: Prepare a brush and a pail of water. Soak the brush into the water.
+                  <b> Step 6.1:</b>  Prepare a brush and a pail of water. Soak the brush into the water.
                   </h5>
                 </div>
               </div>
               <div className="row">
-                <div className="col-md-6" >
+                <div  >
                   <video width="100%" height="100%" controls poster="link8.5.2.jpeg">
                     <source src="link8.5.2.mp4" type="video/mp4" />
                   </video>
                 </div>
-                <div className="col-md-6">
+                <div  className="cardf-content" >
                   <h5 className="cardff-substep-title">
-                    Step 6.2: Scrub the tap thoroughly with the brush.
+                  <b>Step 6.2:</b>   Scrub the tap thoroughly with the brush.
                   </h5>
                 </div>
                 </div>
               
               <div className="row">
-                <div className="col-md-6" >
+                <div  >
                   <video width="100%" height="100%" controls poster="link8.5.3.jpeg">
                     <source src="link8.5.3.mp4" type="video/mp4" />
                   </video>
                 </div>
-                <div className="col-md-6">
+                <div  className="cardf-content" >
                   <h5 className="cardff-substep-title">
-                    Step 6.3: Turn on the tap to flush out any residue.
+                   <b> Step 6.3:</b> Turn on the tap to flush out any residue.
                   </h5>
                 </div>
               </div>
@@ -175,8 +179,8 @@ const Link07 = () => {
 
   <div className="cardf" style={{flexDirection:"column",alignItems:"center",marginTop:"4%"}}>
   <div className="cardf-content">
-    <h2 className="cardf-title">Step 7</h2>
-      <h5 className="cardf-description">Ensure clean glassware</h5>
+    <h2 className="cardf-title">Step 7 : Ensure clean glassware</h2>
+      <h5 className="cardf-description"></h5>
   </div>
   <div className="container">
     <div className="row">
