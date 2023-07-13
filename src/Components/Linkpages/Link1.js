@@ -17,9 +17,9 @@ const Link1 = () => {
         </video>      
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 1</h2>
-        <h5 className="cardf-description">Disengage, turn dispenser anti-clockwise and lift it up
-          <h6>Push down the entire lever, squeeze the lower lever so that you can disengage the dispenser </h6> </h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"><b>Step 1 : </b>Disengage, turn dispenser anti-clockwise and lift it up
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>Push down the entire lever, squeeze the lower lever so that you can disengage the dispenser </b> </h5>
       </div>
     </div>
 
@@ -30,8 +30,8 @@ const Link1 = () => {
           <source src="link42a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 2</h2>
-        <h5 className="cardf-description">Connect the dispenser to the flushing adapter and turn it clockwise to secure it. Turn on water supply</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"><b>Step 2 : </b>Connect the dispenser to the flushing adapter and turn it clockwise to secure it. Turn on water supply</h5>
       </div>
     </div>
  
@@ -41,9 +41,9 @@ const Link1 = () => {
           <source src="link43a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 3</h2>
-        <h5 className="cardf-description">Use a tissue to wipe away excess beer from keg spearhead
-        <h6>(IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</h6>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"><b>Step 3 : </b>Use a tissue to wipe away excess beer from keg spearhead
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>(IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</b>
            </h5>
       </div>
     </div>
@@ -54,9 +54,9 @@ const Link1 = () => {
           <source src="link44a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 4</h2>
-        <h5 className="cardf-description">Use another piece of tissue to seal the spearhead
-        <h6>(IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</h6>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"><b>Step 4 : </b>Use another piece of tissue to seal the spearhead
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>(IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</b>
        </h5>
       </div>
     </div>
@@ -67,8 +67,8 @@ const Link1 = () => {
           <source src="link45a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 5</h2>
-        <h5 className="cardf-description">Turn on the beer tap by pulling the handle towards you to flush out the remaining beer in the system. Stop when you see clear water flow
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 5 : </b>Turn on the beer tap by pulling the handle towards you to flush out the remaining beer in the system. Stop when you see clear water flow
           </h5>
       </div>
     </div>
@@ -79,8 +79,8 @@ const Link1 = () => {
           <source src="link46a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 6</h2>
-        <h5 className="cardf-description">Turn off the CO2 supply by turning the cylinder knob clockwise</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"><b>Step 6 : </b>Turn off the CO2 supply by turning the cylinder knob clockwise</h5>
       </div>
     </div>
 
@@ -90,8 +90,8 @@ const Link1 = () => {
           <source src="link47a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 7</h2>
-        <h5 className="cardf-description">On the following day before bar opening, turn on the CO2 supply by turning the cylinder knob anti-clockwise</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"><b>Step 7 : </b>On the following day before bar opening, turn on the CO2 supply by turning the cylinder knob anti-clockwise</h5>
       </div>
     </div>
     <div className="cardf">
@@ -100,8 +100,8 @@ const Link1 = () => {
           <source src="link48a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 8</h2>
-        <h5 className="cardf-description">Remove the tissue on the spearhead</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"><b>Step 8 : </b>Remove the tissue on the spearhead</h5>
       </div>
     </div>
 
@@ -111,8 +111,8 @@ const Link1 = () => {
           <source src="link49a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 9</h2>
-        <h5 className="cardf-description">Turn off the water supply and turn the dispenser anti-clockwise to remove it from the flushing adapter </h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description">  <b>Step 9 : </b>Turn off the water supply and turn the dispenser anti-clockwise to remove it from the flushing adapter </h5>
       </div>
     </div>
 
@@ -122,10 +122,10 @@ const Link1 = () => {
           <source src="link410a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 10</h2>
-        <h5 className="cardf-description">Connect the dispenser back to the keg spearhead, 
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 10 : </b>Connect the dispenser back to the keg spearhead, 
             turn it clockwise to engage it and squeeze the lever before pressing it down
-          <h6>Align the dispenser with the spearhead first before attempting to engage it</h6> 
+            <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>Align the dispenser with the spearhead first before attempting to engage it</b> 
           </h5>
       </div>
     </div>
@@ -136,8 +136,8 @@ const Link1 = () => {
           <source src="link411a.mp4" type="video/mp4" />
         </video>      </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 11</h2>
-        <h5 className="cardf-description">Pull the beer tap handle towards you to flush out the water in your system and stop when you see clear beer flow</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 11 : </b>Pull the beer tap handle towards you to flush out the water in your system and stop when you see clear beer flow</h5>
       </div>
     </div>
 

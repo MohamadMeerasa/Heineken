@@ -19,11 +19,11 @@ const Link3 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 1</h2>
-        <h5 className="cardf-description">Check if the CO2 cylinder is empty
-          <h6>The button cannot be engaged may be due to
-           - The CO2 cylinder not turned on (turn the cylinder knob anti-clockwise and try to press the button again)<br />
-           - The CO2 cylinder is empty</h6> </h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 1 : </b>Check if the CO2 cylinder is empty
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>The button cannot be engaged may be due to
+           - The CO2 cylinder not turned on (turn the cylinder knob anti-clockwise and try to press the button again)
+           - The CO2 cylinder is empty</b> </h5>
       </div>
     </div>
 
@@ -35,9 +35,9 @@ const Link3 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 2</h2>
-        <h5 className="cardf-description">Turn off the CO2 cylinder by turning the cylinder knob clockwise
-        <h6>(IMPORTANT) Ensure that the knob is fully turned (hand-tight) before pulling on the release key to release remaining pressure</h6></h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 2 :  </b>Turn off the CO2 cylinder by turning the cylinder knob clockwise
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>(IMPORTANT) Ensure that the knob is fully turned (hand-tight) before pulling on the release key to release remaining pressure</b></h5>
       </div>
     </div>
  
@@ -48,8 +48,8 @@ const Link3 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 3</h2>
-        <h5 className="cardf-description">Use the attached spanner to loosen the nut connecting the cylinder and regulator before unscrewing it </h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 3 :  </b>Use the attached spanner to loosen the nut connecting the cylinder and regulator before unscrewing it </h5>
       </div>
     </div>
 
@@ -60,9 +60,9 @@ const Link3 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 4</h2>
-        <h5 className="cardf-description">Ensure that there is a washer on the regulator before connecting to a new cylinder
-        <h6>(IMPORTANT) The washer MUST be present to prevent gas leaks</h6>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 4 :  </b>Ensure that there is a washer on the regulator before connecting to a new cylinder
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}> (IMPORTANT) The washer MUST be present to prevent gas leaks</b>
        </h5>
       </div>
     </div>
@@ -74,9 +74,9 @@ const Link3 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 5</h2>
-        <h5 className="cardf-description">Connect the regulator to a new cylinder and tighten the nut with the attached spanner
-          <h6>(IMPORTANT) Double check that the nut is properly tightened</h6> </h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 5 :  </b>Connect the regulator to a new cylinder and tighten the nut with the attached spanner
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>(IMPORTANT) Double check that the nut is properly tightened</b> </h5>
       </div>
     </div>
 
@@ -87,8 +87,8 @@ const Link3 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 6</h2>
-        <h5 className="cardf-description">Turn on the CO2 cylinder by turning the knob anti-clockwise</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 6 :  </b>Turn on the CO2 cylinder by turning the knob anti-clockwise</h5>
       </div>
     </div>
 
@@ -99,8 +99,8 @@ const Link3 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 7</h2>
-        <h5 className="cardf-description">Engage the dispenser by pressing on the button to start the flow of CO2 </h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 7 :  </b>Engage the dispenser by pressing on the button to start the flow of CO2 </h5>
       </div>
     </div>
 

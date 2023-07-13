@@ -19,10 +19,10 @@ const Link6 = () => {
         </video>
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 1</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-          <h5>Ensure that the beer keg is empty</h5>
-          <h6> The beer tap will only dispense foam when the keg is empty</h6> 
+          <h5> <b>Step 1 :  </b>Ensure that the beer keg is empty
+          <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}> The beer tap will only dispense foam when the keg is empty</b> </h5>
         </h5>
       </div>
     </div>
@@ -35,10 +35,10 @@ const Link6 = () => {
         </video> 
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 2</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-          <h5>Disengage and lift up dispense.</h5>
-          <h6>Hold the entire lever down, before squeezing the bottom lever so that you can lift up the whole lever</h6>
+          <h5> <b>Step 2 :  </b>Disengage and lift up dispense.
+          <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>Hold the entire lever down, before squeezing the bottom lever so that you can lift up the whole lever</b></h5>
         </h5>
       </div>
     </div>
@@ -50,9 +50,9 @@ const Link6 = () => {
         </video>
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 3</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-          <h5>Turn anti-clockwise and remove dispenser</h5>
+          <h5> <b>Step 3 :  </b>Turn anti-clockwise and remove dispenser</h5>
         </h5>
       </div>
     </div>
@@ -64,9 +64,9 @@ const Link6 = () => {
         </video>
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 4</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-          <h5>Break open the seal of the new beer keg</h5>
+          <h5> <b>Step 4 :  </b>Break open the seal of the new beer keg</h5>
        </h5>
       </div>
     </div>
@@ -78,11 +78,11 @@ const Link6 = () => {
         </video>
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 5</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-          <h5>Connect the dispenser and turn it clockwise to lock it</h5>
-          <h6>You have to align the dispenser head with the spearhead before being able to turn the dispenser to secure it. Do not force the 
-            dispenser onto the spearhead as it can cause damage to either components. </h6> 
+          <h5> <b>Step 5 :  </b>Connect the dispenser and turn it clockwise to lock it
+          <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>You have to align the dispenser head with the spearhead before being able to turn the dispenser to secure it. Do not force the 
+            dispenser onto the spearhead as it can cause damage to either components. </b></h5> 
         </h5>
       </div>
     </div>
@@ -94,10 +94,10 @@ const Link6 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 6</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-          <h5>Engage the dispenser by squeezing the lever and pushing down</h5>
-          <h6>Squeeze the bottom half of the lever before pushing the entire lever down to lock the dispenser </h6> 
+          <h5> <b>Step 6 :  </b>Engage the dispenser by squeezing the lever and pushing down
+          <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}>Squeeze the bottom half of the lever before pushing the entire lever down to lock the dispenser </b></h5> 
         </h5>
       </div>
     </div>
@@ -109,9 +109,9 @@ const Link6 = () => {
         </video>
         </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 7</h2>
-        <h5 className="cardf-description"><h5>Test the flow of beer</h5>
-          <h6> Pull the beer tap to dispense beer and stop when you see clear beer flow</h6> 
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"><h5> <b>Step 7 : </b>Test the flow of beer
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}> Pull the beer tap to dispense beer and stop when you see clear beer flow</b> </h5>
         </h5>
       </div>
     </div>

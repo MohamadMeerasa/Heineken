@@ -21,8 +21,8 @@ const Link2 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 1</h2>
-        <h5 className="cardf-description">Switch off super cold unit</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 1 : </b>Switch off super cold unit</h5>
       </div>
     </div>
 
@@ -34,9 +34,9 @@ const Link2 = () => {
         </video>     
          </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 2</h2>
-        <h5 className="cardf-description">Disengage and lift up dispenser, turning it anti-clockwise to remove it
-       <h6>Hold and push down the entire lever before squeezing the bottom lever to disengage the dispenser</h6>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 2 : </b>Disengage and lift up dispenser, turning it anti-clockwise to remove it
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}> Hold and push down the entire lever before squeezing the bottom lever to disengage the dispenser</b>
        </h5>
       </div>
     </div>
@@ -48,8 +48,8 @@ const Link2 = () => {
         </video>     
          </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 3</h2>
-        <h5 className="cardf-description">Connect the dispenser to the flushing adapter and turn it clockwise to secure it. Turn on the water supply
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 3 : </b>Connect the dispenser to the flushing adapter and turn it clockwise to secure it. Turn on the water supply
            </h5>
       </div>
     </div>
@@ -61,9 +61,9 @@ const Link2 = () => {
         </video>      
         </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 4</h2>
-        <h5 className="cardf-description">Use a piece of tissue to clean leftover beer on the keg spearhead
-       <h6>(IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</h6>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 4 :  </b>Use a piece of tissue to clean leftover beer on the keg spearhead
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}> (IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</b>
        </h5>
       </div>
     </div>
@@ -75,9 +75,9 @@ const Link2 = () => {
         </video>     
          </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 5</h2>
-        <h5 className="cardf-description">Use another piece of tissue to seal the keg spearhead
-          <h6>(IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</h6> 
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b> Step 5 : </b>Use another piece of tissue to seal the keg spearhead
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}> (IMPORTANT) This is for hygiene purposes to ensure the remaining beer in the keg does not get contaminated</b> 
           </h5>
       </div>
     </div>
@@ -89,8 +89,8 @@ const Link2 = () => {
         </video>      
         </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 6</h2>
-        <h5 className="cardf-description">Turn on the beer tap by pulling the beer handle towards you to flush out the remaining beer in the system.
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 6 :  </b>Turn on the beer tap by pulling the beer handle towards you to flush out the remaining beer in the system.
              Stop when you see clear water flow</h5>
       </div>
     </div>
@@ -102,9 +102,9 @@ const Link2 = () => {
         </video>     
          </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 7</h2>
-        <h5 className="cardf-description">Turn off the CO2 flow by turning the cylinder knob clockwise
-          <h6>(IMPORTANT) Ensure that the cylinder is properly tightened to prevent any CO2 gas leak</h6>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 7 :  </b>Turn off the CO2 flow by turning the cylinder knob clockwise
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}> (IMPORTANT) Ensure that the cylinder is properly tightened to prevent any CO2 gas leak</b>
            </h5>
       </div>
     </div>
@@ -116,8 +116,8 @@ const Link2 = () => {
         </video>     
          </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 8</h2>
-        <h5 className="cardf-description">Prior to bar opening, 
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 8 :  </b>Prior to bar opening, 
         turn on CO2 flow by turning the cylinder knob anti-clockwise
         </h5>
       </div>
@@ -130,8 +130,8 @@ const Link2 = () => {
         </video>     
          </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 9</h2>
-        <h5 className="cardf-description">Remove the tissue paper from the keg spearhead</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 9 :  </b>Remove the tissue paper from the keg spearhead</h5>
       </div>
     </div>
 
@@ -142,8 +142,8 @@ const Link2 = () => {
         </video>     
          </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 10</h2>
-        <h5 className="cardf-description">Turn the dispenser anti-clockwise to remove it from the flushing adapter</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 10 : </b>Turn the dispenser anti-clockwise to remove it from the flushing adapter</h5>
       </div>
     </div>
 
@@ -154,9 +154,9 @@ const Link2 = () => {
         </video>      
         </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 11</h2>
-        <h5 className="cardf-description">Connect the dispenser with the keg spearhead, turning it clockwise to secure it, before squeezing the lever and pressing it down to engage the dispenser
-        <h6>Ensure that the dispenser is aligned with the keg spearhead before turning, and squeeze the bottom lever before pushing the whole lever down</h6></h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 11 :  </b>Connect the dispenser with the keg spearhead, turning it clockwise to secure it, before squeezing the lever and pressing it down to engage the dispenser
+        <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}> Ensure that the dispenser is aligned with the keg spearhead before turning, and squeeze the bottom lever before pushing the whole lever down</b></h5>
       </div>
     </div>
 
@@ -167,8 +167,8 @@ const Link2 = () => {
         </video>     
          </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 12</h2>
-        <h5 className="cardf-description">Pull the beer tap handle towards you to flush out the remaining water in the system and stop when you see clear beer flow</h5>
+        <h2 className="cardf-title"></h2>
+        <h5 className="cardf-description"> <b>Step 12 :  </b>Pull the beer tap handle towards you to flush out the remaining water in the system and stop when you see clear beer flow</h5>
       </div>
     </div>
 
@@ -179,9 +179,9 @@ const Link2 = () => {
         </video>      
         </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 13</h2>
-        <h5 className="cardf-description">Turn on the super cold system 2 hours prior to start of bar operations
-        <h6>This allows the super cold to have sufficient time to cool down</h6></h5>
+        <h2 className="cardf-title"></h2>
+        <h5  className="cardf-description"> <b>Step 13 :  </b>Turn on the super cold system 2 hours prior to start of bar operations <b style={{fontWeight:'500', fontSize:'1rem' , marginLeft:'5px'}}> This allows the super cold to have sufficient time to cool down</b></h5>
+       
       </div>
     </div>
     </div>

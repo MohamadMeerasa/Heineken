@@ -19,10 +19,10 @@ const Link5 = () => {
         </video>
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 1</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-          {/* <h5>Ensure that the beer keg is empty</h5> */}<br/>
-          <h5> Open up the tap by pressing the button on the left</h5> 
+          {/* <h5>Ensure that the beer keg is empty</h5> */}
+          <h5> <b>Step 1 :  </b> Open up the tap by pressing the button on the left</h5> 
         </h5>
       </div>
     </div>
@@ -35,10 +35,10 @@ const Link5 = () => {
         </video> 
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 2</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
           {/* <h5>Disengage and lift up dispense.</h5> */}<br/>
-          <h5>Remove the beer line from the font</h5>
+          <h5> <b>Step 2 :  </b>Remove the beer line from the font</h5>
         </h5>
       </div>
     </div>
@@ -50,9 +50,9 @@ const Link5 = () => {
         </video>
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 3</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-        <br/>  <h5>Disengage and lift up the coupler</h5>
+         <h5> <b>Step 3 :  </b>Disengage and lift up the coupler</h5>
         </h5>
       </div>
     </div>
@@ -64,9 +64,9 @@ const Link5 = () => {
         </video>
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 4</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-        <br/>  <h5>Break open the seal of the new beer keg and uncoil the beer line</h5>
+         <h5> <b>Step 4 :  </b>Break open the seal of the new beer keg and uncoil the beer line</h5>
        </h5>
       </div>
     </div>
@@ -78,9 +78,9 @@ const Link5 = () => {
         </video>
       </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 5</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-        <br/>  <h5>Slot the beer line up the font</h5>
+          <h5> <b>Step 5 :  </b>Slot the beer line up the font</h5>
         </h5>
       </div>
     </div>
@@ -92,9 +92,9 @@ const Link5 = () => {
         </video>
               </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 6</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-        <br/>  <h5>Secure the beer line in place before closing the font</h5>
+         <h5> <b>Step 6 :  </b>Secure the beer line in place before closing the font</h5>
         </h5>
       </div>
     </div>
@@ -106,9 +106,9 @@ const Link5 = () => {
         </video>
         </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 7</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-        <br/>  <h5>Slot in the coupler and engage the button to enable gas flow</h5> 
+         <h5> <b>Step 7 :  </b>Slot in the coupler and engage the button to enable gas flow</h5> 
         </h5>
       </div>
     </div>
@@ -120,9 +120,9 @@ const Link5 = () => {
         </video>
         </div>
       <div className="cardf-content">
-        <h2 className="cardf-title">Step 8</h2>
+        <h2 className="cardf-title"></h2>
         <h5 className="cardf-description">
-        <br/>  <h5>Remove the nozzle cover and start tapping beer</h5> 
+         <h5> <b>Step 8 :  </b>Remove the nozzle cover and start tapping beer</h5> 
         </h5>
       </div>
     </div>
