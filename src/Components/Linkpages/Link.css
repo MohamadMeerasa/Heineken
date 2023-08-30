@@ -10,9 +10,9 @@
     font-weight: lighter;
 }
 
-h5{
-  font-weight: lighter;
-}
+/* h5{
+
+} */
 
 .cardf {
    
@@ -44,7 +44,7 @@ h5{
 .cardf-content {
 
     padding: 20px;
-    flex-basis: 60%;
+   
   }
      
 .cardz-content {
@@ -61,10 +61,13 @@ h5{
   
   .cardf-description {
     margin-bottom: 0;
-    text-align: initial;
+        text-align: initial;
    
   }
-
+.cardfffdescription{
+  text-align: initial;
+  
+}
   .cardd-content{
     display: block;
  
@@ -73,7 +76,8 @@ h5{
   }
 
 .row h5{
-  text-align: initial;
+  text-align: justify;
+ padding: 5px 20%;
 }
   /* .cardff-title{
     clear: left; 
@@ -91,10 +95,7 @@ h5{
     flex-basis: 60%;
   }
 
-  .cardff-substep-title h5{
-margin-left: 0px;
-    align-items: initial;
-  }
+
 
   .cardc{
     border: 1px solid #ccc;
@@ -189,6 +190,10 @@ margin-left: 0px;
     .cardf, .carde, .cardc, .cardd, .cardff{
       flex-direction: column;
       align-items: center;
+    }
+    .row h5{
+      text-align: justify;
+     padding: 3px;
     }
     
     h3{

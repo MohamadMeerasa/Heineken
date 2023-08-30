@@ -18,7 +18,7 @@ const Link08 = () => {
       </div>
       <div className="cardf-content">
         <h2 className="cardf-title"></h2>
-        <h5 className="cardf-description"> <b>Step 1 :  </b> Adopt a First In First Out method when using your kegs. The kegs with an earlier date of manufacturing/date of expiry should be used first.</h5>
+        <h5 className="cardfffdescription"> <b>Step 1 :  </b> Adopt a First In First Out method when using your kegs. The kegs with an earlier date of manufacturing/date of expiry should be used first.</h5>
       </div>
     </div>
 
@@ -176,7 +176,7 @@ const Link08 = () => {
       </div>
       <div className="cardf-content">
         <h2 className="cardf-title"></h2>
-      <h5 className="cardf-description"> <b>Step 7 :  </b>You should not continuously tap more than 3 * 30 litres kegs for a single chiller as this will cause the chiller to have insufficient time to chill the beer. If you have a secondary machine, alternate between the two machines for tapping</h5> 
+      <h5 className="cardfffdescription"> <b>Step 7 :  </b>You should not continuously tap more than 3 * 30 litres kegs for a single chiller as this will cause the chiller to have insufficient time to chill the beer. If you have a secondary machine, alternate between the two machines for tapping</h5> 
       </div>
     </div>
 
