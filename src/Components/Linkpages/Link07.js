@@ -15,7 +15,7 @@ const Link07 = () => {
     <div className="cardstart" style={{marginTop : "30px"}}>
      <div className="cardf">
       <div className="cardf-image-container">
-        <img width="100%" height="100%" src="link7.png" alt="pic" />
+        <img width="100%" height="100%" src="link7new.png" alt="pic" />
       </div>
       <div className="cardf-content">
         <h2 className="cardf-title"></h2>
@@ -31,7 +31,7 @@ const Link07 = () => {
   <div className="container" style={{marginTop: "2%"}} >
       <div className="row">
         <div className="col-md-6">
-          <img  src="pic2.jpg" alt="piccs" style={{maxWidth:"100%"}} />
+          <img  src="link2new.png" alt="piccs" style={{maxWidth:"100%"}} />
         </div>
         <div className="col-md-6">
         <img  src="pic22.jpg" alt="piccs" style={{maxWidth:"100%"}} />
@@ -138,11 +138,9 @@ const Link07 = () => {
               
               <div className="container" style={{marginTop:"2%"}}>
                 <div className="row">
-                <div  >
-                  <video width="100%" height="100%" controls poster="link8.5.1.jpeg">
-                    <source src="link8.5.1.mp4" type="video/mp4" />
-                  </video>
-                </div>
+               <div>
+                <img  src="step6new.png" alt="piccs" style={{maxWidth:"100%"}} />
+              </div>
                 <div  className="cardf-content">
                   <h5 className="cardff-substep-title" >
                   <b> Step 6.1:</b>  Prepare a brush and a pail of water. Soak the brush into the water.
@@ -151,13 +149,18 @@ const Link07 = () => {
               </div>
               <div className="row">
                 <div  >
-                  <video width="100%" height="100%" controls poster="link8.5.2.jpeg">
-                    <source src="link8.5.2.mp4" type="video/mp4" />
+                  <video width="100%" height="100%" controls poster="images/link6.2new.jpeg">
+                    <source src="link6.2new.mp4" type="video/mp4" />
+                  </video>
+                </div>
+                <div  >
+                  <video width="100%" height="100%" controls poster="images/link6.2.1new.jpeg">
+                    <source src="link6.2.1new.mp4" type="video/mp4" />
                   </video>
                 </div>
                 <div  className="cardf-content" >
                   <h5 className="cardff-substep-title">
-                  <b>Step 6.2:</b>   Scrub the tap thoroughly with the brush.
+                  <b>Step 6.2:</b> Scrub the tap thoroughly with the brush and then wipe the tap dry.
                   </h5>
                 </div>
                 </div>
